@@ -1,0 +1,11 @@
+# defaults file for ansible-postgres
+
+ansible_hosts: 
+postgres_user: 
+postgres_db:
+postgres_password:
+postgres_host:
+postgres_port: 
+resource_group: 
+account_name: 
+container_name: 
